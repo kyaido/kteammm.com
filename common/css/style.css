@@ -1,0 +1,109 @@
+@charset "UTF-8";
+
+/* style.css
+=========================================*/
+
+
+
+/*  for all settings
+=========================================*/
+body {
+	font-size: 83%;
+}
+
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+
+
+#pageContainer {
+	width: 960px;
+	margin: 50px auto;
+}
+
+
+
+
+
+
+/*  /index.html
+=========================================*/
+#siteTopImage {
+	position: relative;
+	width: 622px;
+	margin: 50px auto;
+}
+#siteTopImage .facebook {
+	position: absolute;
+	bottom: 30px;
+	right: -80px;
+}
+#siteTopImage .thebase {
+	position: absolute;
+	bottom: 30px;
+	right: -130px;
+}
+
+
+
+
+
+
+/*  /main.html
+=========================================*/
+#main #pageContainer {
+	position: relative;
+	min-height: 700px;
+}
+#main #identity {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+#main #identity .mail {
+	margin: 10px 0 0 20px;
+}
+#main .menu .link01 {
+	position: absolute;
+	top: 250px;
+	left: 550px;
+}
+#main .menu .link02 {
+	position: absolute;
+	top: 310px;
+	left: 380px;
+}
+#main .menu .link03 {
+	position: absolute;
+	top: 90px;
+	left: 670px;
+}
+#main .menu .link04 {
+	position: absolute;
+	top: 110px;
+	left: 450px;
+}
+#main .menu .link05 {
+	position: absolute;
+	top: 300px;
+	left: 700px;
+}
+#main .menu .link06 {
+	position: absolute;
+	top: 430px;
+	left: 440px;
+}
+
+
+
+
+
