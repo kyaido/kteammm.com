@@ -42,14 +42,29 @@ a:hover {
 	width: 622px;
 	margin: 50px auto;
 }
+#siteTopImage .hykw {
+	position: absolute;
+	bottom: 0;
+	right: 70px;
+}
+#siteTopImage .narcissus {
+	position: absolute;
+	bottom: 0;
+	right: 20px;
+}
+#siteTopImage .ryutaabe {
+	position: absolute;
+	bottom: 0;
+	right: -30px;
+}
 #siteTopImage .facebook {
 	position: absolute;
-	bottom: 30px;
-	right: -80px;
+	bottom: 5px;
+	right: -75px;
 }
 #siteTopImage .thebase {
 	position: absolute;
-	bottom: 30px;
+	bottom: 5px;
 	right: -130px;
 }
 
