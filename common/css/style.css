@@ -44,27 +44,27 @@ a:hover {
 }
 #siteTopImage .hykw {
 	position: absolute;
-	bottom: 0;
-	right: 70px;
+	bottom: -30px;
+	right: 150px;
 }
 #siteTopImage .narcissus {
 	position: absolute;
-	bottom: 0;
-	right: 20px;
+	bottom: -30px;
+	right: 60px;
 }
 #siteTopImage .ryutaabe {
 	position: absolute;
-	bottom: 0;
+	bottom: -30px;
 	right: -30px;
 }
 #siteTopImage .facebook {
 	position: absolute;
-	bottom: 5px;
+	bottom: -10px;
 	right: -75px;
 }
 #siteTopImage .thebase {
 	position: absolute;
-	bottom: 5px;
+	bottom: -10px;
 	right: -130px;
 }
 
